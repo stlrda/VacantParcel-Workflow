@@ -1,1 +1,0 @@
-This directory holds [DAG files](https://airflow.apache.org/docs/stable/concepts.html#dags). 
